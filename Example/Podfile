@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'LDBusMediator-wb_Example' do
+  pod 'LDBusMediator-wb', :path => '../'
+
+  target 'LDBusMediator-wb_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
