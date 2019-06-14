@@ -1,0 +1,16 @@
+PODS:
+  - LDBusMediator-wb (1.0.0)
+
+DEPENDENCIES:
+  - LDBusMediator-wb (from `../`)
+
+EXTERNAL SOURCES:
+  LDBusMediator-wb:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LDBusMediator-wb: 740fb5edd0ebe3350f747a1445257212d72d5643
+
+PODFILE CHECKSUM: e34409b99c41f446b5849f51f6a75d936053bd3e
+
+COCOAPODS: 1.7.1
